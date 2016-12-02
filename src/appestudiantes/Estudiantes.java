@@ -11,6 +11,8 @@ public class Estudiantes {
    public int vcredpos;
    public double vtotal;
    
+   
+   /*Camilo hizo esto*/
    public void Pagar()
    {
        if(P == 1)
