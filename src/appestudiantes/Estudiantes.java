@@ -11,7 +11,7 @@ public class Estudiantes {
    public int vcredpos;
    public double vtotal;
    
-   /*Daniel Modifico esto*/
+   /*Daniel actualizo el proyecto*/
    public void Pagar()
    {
        if(P == 1)
